@@ -1,6 +1,6 @@
 # ApplicationUpdateLog
 
-Keep tracking the updates
+Keep tracking the updates-v1.01
 
 The official site and dashboard have been updated. 
 We made some improvements and restrictions to achieve better user experience:
