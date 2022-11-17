@@ -2,7 +2,8 @@
 
 Keep tracking the updates
 
-The official site and dashboard have been updated. We made some improvements and restrictions to achieve better user experience:
+The official site and dashboard have been updated. 
+We made some improvements and restrictions to achieve better user experience:
 
 1. The name of API key is limited to 20 bytes.
 2. The notification of expiring packages will not include 0 RU packages now.
